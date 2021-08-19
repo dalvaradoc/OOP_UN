@@ -1,0 +1,82 @@
+Harvest a Field
+# first street, first avenue, num streets, num avenues showing 
+0 0 8 10
+# intersection size (in pixels) 
+76
+# wall
+#   becker.robots.Wall 1 1 Direction.NORTH
+
+#   becker.robots.Wall 2 1 Direction.SOUTH
+
+#   becker.robots.Wall 1 2 Direction.EAST
+
+#   becker.robots.Wall 1 1 Direction.WEST
+
+
+   becker.robots.Wall 1 1 Direction.NORTH
+   becker.robots.Wall 1 2 Direction.NORTH
+   becker.robots.Wall 1 3 Direction.NORTH
+
+   becker.robots.Wall 1 1 Direction.WEST
+   becker.robots.Wall 2 1 Direction.WEST
+   becker.robots.Wall 3 1 Direction.WEST
+   becker.robots.Wall 4 1 Direction.WEST
+   becker.robots.Wall 5 1 Direction.WEST
+
+   becker.robots.Wall 1 1 Direction.EAST
+   becker.robots.Wall 2 1 Direction.EAST
+   becker.robots.Wall 3 1 Direction.EAST
+   becker.robots.Wall 4 1 Direction.EAST
+   becker.robots.Wall 5 1 Direction.EAST
+
+   becker.robots.Wall 1 2 Direction.EAST
+   becker.robots.Wall 2 2 Direction.EAST
+   becker.robots.Wall 3 2 Direction.EAST
+   becker.robots.Wall 4 2 Direction.EAST
+   becker.robots.Wall 5 2 Direction.EAST
+
+   becker.robots.Wall 1 2 Direction.WEST
+   becker.robots.Wall 2 2 Direction.WEST
+   becker.robots.Wall 3 2 Direction.WEST
+   becker.robots.Wall 4 2 Direction.WEST
+   becker.robots.Wall 5 2 Direction.WEST
+
+   becker.robots.Wall 1 3 Direction.WEST
+   becker.robots.Wall 2 3 Direction.WEST
+   becker.robots.Wall 3 3 Direction.WEST
+   becker.robots.Wall 4 3 Direction.WEST
+   becker.robots.Wall 5 3 Direction.WEST
+
+   becker.robots.Wall 1 3 Direction.EAST
+   becker.robots.Wall 2 3 Direction.EAST
+   becker.robots.Wall 3 3 Direction.EAST
+   becker.robots.Wall 4 3 Direction.EAST
+   becker.robots.Wall 5 3 Direction.EAST
+
+   becker.robots.Wall 5 4 Direction.EAST
+   becker.robots.Wall 5 5 Direction.EAST
+   becker.robots.Wall 5 6 Direction.EAST
+   becker.robots.Wall 5 7 Direction.EAST
+
+   becker.robots.Wall 5 4 Direction.WEST
+   becker.robots.Wall 5 5 Direction.WEST
+   becker.robots.Wall 5 6 Direction.WEST
+   becker.robots.Wall 5 7 Direction.WEST
+
+   becker.robots.Wall 5 4 Direction.NORTH
+   becker.robots.Wall 5 5 Direction.NORTH
+   becker.robots.Wall 5 6 Direction.NORTH
+   becker.robots.Wall 5 7 Direction.NORTH
+
+#cars
+
+   becker.robots.Thing 1 1
+   becker.robots.Thing 2 1
+
+   becker.robots.Thing 1 2
+
+   becker.robots.Thing 6 8
+   becker.robots.Thing 6 8
+   becker.robots.Thing 6 8
+   becker.robots.Thing 6 8
+   becker.robots.Thing 6 8

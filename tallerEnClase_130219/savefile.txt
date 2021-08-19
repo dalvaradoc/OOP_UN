@@ -1,0 +1,3 @@
+Profesional,Bogota,Calle 30 Carrera 45,3165000,1234.256,1,1,Nombre del programa,la descripcion del programa,1,Curso 1,Descripcion curso 1,0,
+Continua,Sede Continua,direccion continua,315000,500.05,POO java,3,POO java,Descripcion1,Curso2,Descripcion2,Curso3,Descripcion3,
+Tecnologica,Sede Tecnologica 1,Calle 100,1235353,10.0,50,1,Programa 1,Desc 1,
